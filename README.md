@@ -24,5 +24,5 @@
 ```
 
 ## Reference
-http://lafrenze.hatenablog.com/entry/2015/08/04/120205
-https://github.com/ymym3412/acl-papers
+* http://lafrenze.hatenablog.com/entry/2015/08/04/120205
+* https://github.com/ymym3412/acl-papers
